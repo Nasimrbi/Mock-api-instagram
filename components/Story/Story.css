@@ -1,0 +1,22 @@
+.aspect-square {
+    aspect-ratio: 1 / 1;
+}
+
+.styles_container__ipSg9 {
+    background: linear-gradient(315deg, #e03d96, #7d4c9e);
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
+
+
+.styles_innerContainer__6FPF0 {
+    width: calc(100% - 4px);
+}
+
+.styles_image__ggcBy {
+    background: linear-gradient(315deg, #e03d96, #7d4c9e);
+    width: calc(100% - 6px);
+    height: calc(100% - 6px);
+}
