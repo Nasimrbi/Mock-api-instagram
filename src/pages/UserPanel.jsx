@@ -87,7 +87,6 @@ function UserPanel() {
   
     reader.onload = () => {
       const base64String = reader.result;
-      console.log(base64String); // رشته Base64 را چاپ می‌کند
       setPostImage(base64String)
     };
   
